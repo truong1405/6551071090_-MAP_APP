@@ -120,3 +120,4 @@ namespace HotelManagement.LoaiPhong
         private System.Windows.Forms.Button btnThemMoi;
     }
 }
+

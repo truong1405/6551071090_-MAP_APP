@@ -146,3 +146,4 @@ namespace HotelManagement.LoaiPhong
         }
     }
 }
+

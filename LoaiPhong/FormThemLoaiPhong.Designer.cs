@@ -257,3 +257,4 @@ namespace HotelManagement.LoaiPhong
         private System.Windows.Forms.Label label1;
     }
 }
+

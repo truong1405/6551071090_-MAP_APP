@@ -414,3 +414,4 @@ namespace HotelManagement
         private System.Windows.Forms.Button button13;
     }
 }
+

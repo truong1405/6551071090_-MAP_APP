@@ -120,3 +120,4 @@ namespace HotelManagement.Phong
         private System.Windows.Forms.DataGridView dtgDanhSachPhong;
     }
 }
+

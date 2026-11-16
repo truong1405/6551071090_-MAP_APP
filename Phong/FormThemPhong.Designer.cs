@@ -222,3 +222,4 @@ namespace HotelManagement.Phong
         private System.Windows.Forms.Label label5;
     }
 }
+

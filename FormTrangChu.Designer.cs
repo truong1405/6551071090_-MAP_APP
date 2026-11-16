@@ -61,3 +61,4 @@ namespace HotelManagement
         private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
+

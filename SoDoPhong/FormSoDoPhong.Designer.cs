@@ -495,3 +495,4 @@ namespace HotelManagement.SoDoPhong
         private System.Windows.Forms.DataGridView dataGridViewPhong;
     }
 }
+
